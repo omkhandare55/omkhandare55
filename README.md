@@ -1,125 +1,58 @@
 <div align="center">
 
-<!-- 🌠 Futuristic Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Welcome%20to%20Om%20Khandare's%20Terminal&fontSize=50&fontColor=00f0ff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Innovator&descAlignY=55&descAlign=50&descSize=20&stroke=00f0ff" width="100%" alt="Header" />
+# Om Khandare
 
-<!-- ⌨️ Typing SVG -->
 <a href="https://github.com/omkhandare55">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=bc13fe&center=true&vCenter=true&width=600&lines=%3E_Initializing+neural+pathways...;%3E_Full+Stack+Developer+by+day;%3E_Learning+DSA+with+Java+by+night;%3E_Building+AI-Powered+Tools;%3E_Crafting+Futuristic+Interfaces" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+React+Specialist;UI%2FUX+Enthusiast" alt="Typing Animation" />
 </a>
 
-<br><br>
+<br/>
 
-<!-- 👁️ Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=omkhandare55&label=SYSTEM+VISITS&color=00f0ff&style=for-the-badge&base=0d1117" alt="Visitor Count" />
+<a href="https://linkedin.com/in/omkhandare55"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:omkh4242g@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://twitter.com/omkhandare55"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 
 </div>
 
-<br>
+<br/>
 
-<h2 align="center"> ⚡ <code>whoami</code> </h2>
+---
 
-```json
-{
-  "developer": "Om Khandare",
-  "class": "Full Stack Developer | AI Enthusiast",
-  "base": "Planet Earth 🌍",
-  "status": "Learning Advanced DSA with Java ☕",
-  "traits": [
-    "Hackathon Enthusiast 🏆",
-    "Open-Source Contributor 🔓",
-    "UI/UX Perfectionist 🎨"
-  ],
-  "interests": ["React", "Spring Boot", "System Design", "AI Integrations"],
-  "mission": "Building scalable, intelligent, and visually stunning applications."
-}
-```
+### 👨‍💻 About Me
 
-<br>
+I am a Full Stack Developer focused on building clean, high-performance web applications and scalable backend systems. I enjoy bridging the gap between sophisticated engineering and intuitive design.
 
-<h2 align="center"> 🌌 <code>FEATURED_PROJECTS</code> </h2>
+- 🔭 Currently building: **Debugra** (Collaborative Coding Platform) & **NoteFlow** (Smart Productivity App)
+- 🌱 Currently learning: **Advanced DSA in Java** and **System Architecture**
+- 💻 Core interests: React, Spring Boot, Full-Stack Architecture, and UI/UX Design
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<br/>
 
 <div align="center">
-  <table bordercolor="#00f0ff">
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🧠 Debugra</h3>
-        <p align="center"><i>AI Collaborative Coding Platform</i></p>
-        <p>A next-generation collaborative IDE powered by AI. Engineered to provide seamless real-time coding sessions with built-in intelligent debugging, code completion, and pair-programming assistants. Features a sleek, dark-mode focused UI.</p>
-        <div align="center">
-          <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/AI-00f0ff?style=flat-square&logo=openai&logoColor=black" alt="AI" />
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">⚡ NoteFlow</h3>
-        <p align="center"><i>Smart Productivity Platform</i></p>
-        <p>An AI-enhanced workspace for organizing thoughts, generating insights from notes, and boosting developer productivity. Features dynamic workflows and a futuristic minimalist design.</p>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,nodejs,express,tailwind,mongodb,mysql,git,docker,figma,postman&theme=dark&perline=7" alt="Tech Stack" />
 </div>
 
-<br>
+<br/>
 
-<h2 align="center"> 💻 <code>TECH_STACK_MATRIX</code> </h2>
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,tailwind,ts,js,nodejs,express,mongodb,mysql,git,docker,figma,postman&theme=dark" alt="Tech Stack Matrix" />
-</div>
-
-<br>
-
-<h2 align="center"> 📊 <code>TELEMETRY_DATA</code> </h2>
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkhandare55&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=a9b1d6&icon_color=bc13fe" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkhandare55&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=bc13fe&currStreakLabel=00f0ff" width="48%" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omkhandare55/omkhandare55/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omkhandare55/omkhandare55/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omkhandare55/omkhandare55/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
-
-<p align="center"><i>*Setup a <a href="https://github.com/Platane/snk">GitHub Action</a> to auto-generate the contribution snake.*</i></p>
-
-<br>
-
-<h2 align="center"> 🔌 <code>ESTABLISH_CONNECTION</code> </h2>
-
-<div align="center">
-  <a href="mailto:omkh4242g@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00f0ff" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/omkhandare55">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/omkhandare55">
-    <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00f0ff" alt="Twitter" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00f0ff" alt="Portfolio" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=3000&color=bc13fe&center=true&vCenter=true&width=800&lines=%22Code+is+poetry+written+for+machines%2C+but+designed+for+humanity.%22" alt="Quote" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omkhandare55&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=8b949e&icon_color=3b82f6&bg_color=0d1117" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkhandare55&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=8b949e&bg_color=0d1117" height="195" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=footer" width="100%" alt="Footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkhandare55&bg_color=transparent&color=8b949e&line=3b82f6&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
-# profile
-# omkhandare55
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=omkhandare55&label=Profile+Views&color=3b82f6&style=flat-square" alt="Profile Views" />
+</div>
