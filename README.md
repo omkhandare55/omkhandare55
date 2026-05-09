@@ -4,14 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Welcome%20to%20Vijay's%20Terminal&fontSize=50&fontColor=00f0ff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Innovator&descAlignY=55&descAlign=50&descSize=20&stroke=00f0ff" width="100%" alt="Header" />
 
 <!-- ⌨️ Typing SVG -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/omkhandare55">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=bc13fe&center=true&vCenter=true&width=600&lines=%3E_Initializing+neural+pathways...;%3E_Full+Stack+Developer+by+day;%3E_Learning+DSA+with+Java+by+night;%3E_Building+AI-Powered+Tools;%3E_Crafting+Futuristic+Interfaces" alt="Typing Animation" />
 </a>
 
 <br><br>
 
 <!-- 👁️ Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SYSTEM+VISITS&color=00f0ff&style=for-the-badge&base=0d1117" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=omkhandare55&label=SYSTEM+VISITS&color=00f0ff&style=for-the-badge&base=0d1117" alt="Visitor Count" />
 
 </div>
 
@@ -77,17 +77,17 @@
 <h2 align="center"> 📊 <code>TELEMETRY_DATA</code> </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=a9b1d6&icon_color=bc13fe" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=bc13fe&currStreakLabel=00f0ff" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omkhandare55&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=a9b1d6&icon_color=bc13fe" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkhandare55&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=bc13fe&currStreakLabel=00f0ff" width="48%" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omkhandare55/omkhandare55/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omkhandare55/omkhandare55/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omkhandare55/omkhandare55/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
