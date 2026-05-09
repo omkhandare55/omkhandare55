@@ -98,13 +98,13 @@
 <h2 align="center"> 🔌 <code>ESTABLISH_CONNECTION</code> </h2>
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:omkh4242g@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00f0ff" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/omkhandare55">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://twitter.com/omkhandare55">
     <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00f0ff" alt="Twitter" />
   </a>
   <a href="https://your-portfolio.com">
