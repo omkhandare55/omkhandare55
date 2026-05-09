@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🌠 Futuristic Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Welcome%20to%20Vijay's%20Terminal&fontSize=50&fontColor=00f0ff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Innovator&descAlignY=55&descAlign=50&descSize=20&stroke=00f0ff" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Welcome%20to%20Om%20Khandare's%20Terminal&fontSize=50&fontColor=00f0ff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Innovator&descAlignY=55&descAlign=50&descSize=20&stroke=00f0ff" width="100%" alt="Header" />
 
 <!-- ⌨️ Typing SVG -->
 <a href="https://github.com/omkhandare55">
@@ -21,7 +21,7 @@
 
 ```json
 {
-  "developer": "Vijay",
+  "developer": "Om Khandare",
   "class": "Full Stack Developer | AI Enthusiast",
   "base": "Planet Earth 🌍",
   "status": "Learning Advanced DSA with Java ☕",
