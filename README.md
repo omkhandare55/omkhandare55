@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,12,20,30&height=220&section=header&text=Om%20Khandare&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Full%20Stack%20Builder&descAlignY=58&descAlign=50&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,12,20,30&height=220&section=header&text=Om%20Khandare&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20IT%20%7C%20RCPIT%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20Developer&descAlignY=58&descAlign=50&descSize=18" width="100%" />
 
 <br/>
 
 <a href="https://github.com/omkhandare55">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI-Powered+Developer+Tools;Full+Stack+%7C+React+%2B+Spring+Boot;Crafting+Elegant+%26+Scalable+Systems;Hackathon+Enthusiast+%7C+Open+Source+Learner;DSA+%7C+System+Design+%7C+UI%2FUX+Engineering" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Developer+Tools;Full+Stack+%7C+React+%2B+Spring+Boot;Crafting+Elegant+%26+Scalable+Systems;Hackathon+Enthusiast+%7C+Open+Source+Learner;DSA+%7C+System+Design+%7C+UI%2FUX+Engineering" alt="Typing Animation" />
 </a>
 
 <br/><br/>
 
-![Java](https://img.shields.io/badge/Java-B.Tech%20Engineer-6D28D9?style=flat-square&logo=coffeescript&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=flat-square&logo=opensourceinitiative&logoColor=white)
-![Location](https://img.shields.io/badge/📍%20India-Pune-4C1D95?style=flat-square)
+![Degree](https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=flat-square&logo=mortarboard&logoColor=white)
+![College](https://img.shields.io/badge/RCPIT-2024--2028-7C3AED?style=flat-square&logo=academia&logoColor=white)
+![Location](https://img.shields.io/badge/📍%20India-Maharashtra-4C1D95?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Open%20To%20Work-10B981?style=flat-square)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=A78BFA)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkhandare55)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkh4242g@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkhandare55)
+[![Portfolio](https://img.shields.io/badge/Portfolio-debugra.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://debugra.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-om--khandare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-khandare-6b98a432a)
+[![Email](https://img.shields.io/badge/Gmail-omkh4242g-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkh4242g@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-omkhandare55-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkhandare55)
 
 <br/>
 
@@ -36,11 +36,11 @@
 
 ## 🧑‍💻 About Me
 
-I am a **Full Stack Software Engineer** with a strong foundation in building production-grade web applications and AI-integrated developer tools. I specialize in designing systems that are not just technically sound, but intuitive for end users — blending engineering rigor with product thinking.
+I am a **Full Stack Software Engineer** and B.Tech Information Technology student at **RCPIT (2024–2028)**, focused on building production-grade web applications and AI-integrated developer tools. I specialize in designing systems that are technically sound and intuitive for end users — bridging engineering rigor with product thinking.
 
-My work spans the full engineering lifecycle: from architecting scalable backends with **Spring Boot**, to building fluid, accessible frontends in **React**, to integrating **AI/ML capabilities** that deliver genuine user value. I approach every project with a product-first mindset — asking *why* before *how*.
+My work spans the full engineering lifecycle: architecting scalable backends with **Spring Boot**, building fluid and accessible frontends in **React**, and integrating **AI capabilities** that deliver genuine user value. I approach every project with a product-first mindset — asking *why* before *how*.
 
-I am actively deepening my expertise in **Advanced Data Structures & Algorithms (Java)**, **Distributed System Design**, and **AI-native application development** — areas I believe will define the next generation of software engineering.
+I am actively deepening my expertise in **Advanced Data Structures & Algorithms (Java)**, **Distributed System Design**, and **AI-native application development**.
 
 **Open To:** Full Stack Roles · Frontend Engineering · AI Product Development · Open Source Collaboration · Hackathon Teams
 
@@ -102,7 +102,7 @@ I am actively deepening my expertise in **Advanced Data Structures & Algorithms 
 
 Debugra is an AI-powered collaborative development environment engineered to redefine how developers write, debug, and iterate on code. The platform combines a real-time multiplayer IDE with deeply integrated AI assistance — providing intelligent suggestions, automated error explanations, and pair-programming workflows at scale.
 
-The system is architected as a decoupled full-stack application: a React-based frontend offering a VS Code-inspired interface, a Node.js/Express signaling layer for WebRTC real-time collaboration, and a Spring Boot AI engine that interfaces with Groq and Gemini LLMs to deliver sub-second intelligent responses.
+The system is architected as a decoupled full-stack application: a React-based frontend offering a VS Code-inspired interface, a Node.js/Express signaling layer for WebRTC real-time collaboration, and a Spring Boot AI engine interfacing with Groq and Gemini LLMs for sub-second intelligent responses.
 
 | Attribute | Details |
 |:---|:---|
@@ -111,9 +111,8 @@ The system is architected as a decoupled full-stack application: a React-based f
 | **Performance** | < 200ms AI response latency via optimized LLM streaming |
 | **Security** | Google OAuth 2.0 · JWT session management · CORS hardening |
 | **Impact** | Reduces debugging turnaround time by an estimated 60% |
-| **Deployment** | Google Cloud Run · Firebase Hosting · Artifact Registry |
-
-The platform demonstrates enterprise-grade thinking: environment secrets via GCP Secret Manager, containerized backend with Docker, automated CI pipelines, and a domain-verified production deployment. Debugra is a flagship proof of capability in AI-native product engineering.
+| **Deployment** | Google Cloud Run · Vercel · Firebase Hosting |
+| **Repository** | [github.com/omkhandare55](https://github.com/omkhandare55) |
 
 </details>
 
@@ -126,7 +125,7 @@ The platform demonstrates enterprise-grade thinking: environment secrets via GCP
 
 NoteFlow is a next-generation productivity workspace engineered for developers and knowledge workers who demand more than a traditional note-taking application. It surfaces intelligent insights from existing notes, auto-generates structured summaries, and provides a distraction-free environment that adapts to individual workflow patterns.
 
-Built on a Spring Boot backend with a React frontend, NoteFlow leverages AI summarization pipelines to process large volumes of text and surface relevant connections between notes — functioning as an intelligent second brain for its users.
+Built on a Spring Boot backend with a React frontend, NoteFlow leverages AI summarization pipelines to process large volumes of text and surface relevant connections — functioning as an intelligent second brain for its users.
 
 | Attribute | Details |
 |:---|:---|
@@ -135,9 +134,7 @@ Built on a Spring Boot backend with a React frontend, NoteFlow leverages AI summ
 | **Performance** | Optimized data fetching via pagination and lazy loading |
 | **Security** | User authentication · Private workspaces · Input sanitization |
 | **Impact** | Transforms fragmented notes into structured, searchable knowledge |
-| **Category** | AI Productivity · Developer Tools · Knowledge Management |
-
-NoteFlow reflects a product-first philosophy: every engineering decision was evaluated against the end user's workflow. The result is a system that feels effortless to use, yet is sophisticated in its data architecture and AI integration.
+| **Repository** | [github.com/omkhandare55](https://github.com/omkhandare55) |
 
 </details>
 
@@ -147,10 +144,10 @@ NoteFlow reflects a product-first philosophy: every engineering decision was eva
 
 ## 💼 Experience
 
-### Full Stack Developer — Freelance / Independent
-**2024 – Present**
+### Full Stack Developer — Independent Projects
+**RCPIT · 2024 – Present**
 
-Designing and delivering end-to-end software solutions for early-stage products and personal engineering ventures. Full ownership of architecture, development, deployment, and iteration.
+Designing and delivering end-to-end software solutions as part of academic and self-driven engineering initiatives. Full ownership of architecture, development, deployment, and iteration.
 
 - Architected and shipped **Debugra**, an AI-native collaborative IDE deployed on Google Cloud Run with a production-grade CI/CD pipeline
 - Engineered **NoteFlow**, a full-stack productivity platform integrating AI summarization with a Spring Boot backend and React frontend
@@ -174,34 +171,11 @@ Designing and delivering end-to-end software solutions for early-stage products 
 
 | 🏅 Recognition | 📋 Details |
 |:---:|:---|
-| **Hackathon Finalist** | Competed in multiple national-level hackathons, delivering full-stack AI prototypes under 24–48 hour constraints |
-| **Production Deployment** | Successfully deployed AI applications to GCP Cloud Run serving real users |
-| **AI Integration Pioneer** | One of the early adopters building with Groq + Gemini in production full-stack applications |
-| **Open Source Learner** | Actively studying open-source codebases and contributing to community-driven projects |
-| **System Design Practitioner** | Applying distributed systems principles to personal projects at scale |
-
-</div>
-
-<br/>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-**Google Cloud**
-
-[![GCP](https://img.shields.io/badge/Google%20Cloud%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
-
-**Meta / freeCodeCamp**
-
-[![React](https://img.shields.io/badge/React%20Developer%20Certification-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://www.freecodecamp.org)
-
-**NPTEL**
-
-[![Java](https://img.shields.io/badge/Programming%20in%20Java-E34F26?style=for-the-badge&logo=coffeescript&logoColor=white)](https://nptel.ac.in)
-[![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7C3AED?style=for-the-badge&logo=databricks&logoColor=white)](https://nptel.ac.in)
+| **Production Deployments** | Shipped Debugra & NoteFlow to GCP Cloud Run and Vercel serving real users |
+| **AI Integration Pioneer** | Early adopter building with Groq + Gemini in production full-stack applications |
+| **Hackathon Competitor** | Delivered full-stack AI prototypes under 24–48 hour hackathon constraints |
+| **Full Stack at Year 1** | Built and deployed scalable, cloud-hosted web applications in first year of B.Tech |
+| **Open Source Contributor** | Actively studying and contributing to community-driven open source projects |
 
 </div>
 
@@ -213,10 +187,9 @@ Designing and delivering end-to-end software solutions for early-stage products 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/omkhandare55)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/omkhandare55)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/omkhandare55)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/omkhandare55)
+[![LeetCode](https://img.shields.io/badge/LeetCode-OP__GAMING55-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/OP_GAMING55/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-omkh4syk2-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/omkh4syk2)
+[![CodeChef](https://img.shields.io/badge/CodeChef-rcp__fy__24616-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rcp_fy_24616)
 
 </div>
 
@@ -277,10 +250,10 @@ Designing and delivering end-to-end software solutions for early-stage products 
 
 ```yaml
 developer: Om Khandare
-handle: "@omkhandare55"
+college: RCPIT — B.Tech Information Technology (2024–2028)
 
 learning:
-  - Advanced DSA with Java (Trees, Graphs, DP)
+  - Advanced DSA with Java (Trees, Graphs, Dynamic Programming)
   - Distributed System Design Patterns
   - Spring Security & Microservices Architecture
   - LLM API optimization and agentic AI patterns
@@ -297,11 +270,10 @@ exploring:
   - Advanced UI animation with Framer Motion
 
 open_to:
-  - Full Stack Engineering Roles
+  - Full Stack Engineering Internships & Roles
   - AI Product Development
   - Hackathon Collaborations
   - Open Source Contributions
-  - Technical Mentorship & Knowledge Sharing
 ```
 
 <br/>
@@ -313,9 +285,9 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-omkh4242g%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkh4242g@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omkhandare55-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkhandare55)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Khandare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-khandare-6b98a432a)
 [![GitHub](https://img.shields.io/badge/GitHub-omkhandare55-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkhandare55)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-debugra.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://debugra.vercel.app)
 
 </div>
 
